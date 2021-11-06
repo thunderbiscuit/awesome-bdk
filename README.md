@@ -1,13 +1,19 @@
 # Awesome Bitcoindevkit
-A collection of projects using the bitcoindevkit.
+A collection of projects using the bitcoindevkit.  
+<br/>
 
 ## Docs and Sample Applications
+[Devkit Wallet](https://github.com/thunderbiscuit/bitcoindevkit-android-sample-app)  
+<br/>
 
 ## Mobile Applications
+<br/>
 
 ## Server Side
+<br/>
 
 ## Command Line
+<br/>
 
 ## Contribute
 If you know of an awesome project using the bitcoindevkit and that project is not listed here, let us know by opening an issue or a PR directly!
