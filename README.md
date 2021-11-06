@@ -8,6 +8,7 @@ A collection of projects using the bitcoindevkit.
 <br/>
 
 ## Mobile Applications
+[Padawan Wallet](https://github.com/thunderbiscuit/padawan-wallet)  
 <br/>
 
 ## Server Side
