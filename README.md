@@ -4,6 +4,7 @@ A collection of projects using the bitcoindevkit.
 
 ## Docs and Sample Applications
 [Devkit Wallet](https://github.com/thunderbiscuit/bitcoindevkit-android-sample-app)  
+[BDWallet](https://github.com/bitcoindevkit/BDWallet)  
 <br/>
 
 ## Mobile Applications
