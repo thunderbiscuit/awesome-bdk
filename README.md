@@ -15,6 +15,7 @@ A collection of projects using the bitcoindevkit.
 <br/>
 
 ## Command Line
+[gun wallet](https://github.com/LLFourn/gun)  
 <br/>
 
 ## Contribute
