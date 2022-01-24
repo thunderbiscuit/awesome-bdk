@@ -8,6 +8,7 @@ A curated list of [bitcoindevkit](https://bitcoindevkit.org/) projects and resou
 - [bdk-cli](https://github.com/bitcoindevkit/bdk-cli) — a command line interface to experiment with the bitcoindevkit
 - [bdk-kotlin](https://github.com/bitcoindevkit/bdk-kotlin) — the Kotlin language bindings for bdk
 - [bdk-swift](https://github.com/bitcoindevkit/bdk-swift) — the Swift language bindings for bdk
+- [bdk-ldk](https://github.com/johncantrell97/bdk-ldk) — providing bitcoindevkit users the functionality required to enable lightning via [LDK](https://lightningdevkit.org/)
 
 <br/>
 
