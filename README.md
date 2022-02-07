@@ -29,5 +29,10 @@ A curated list of [bitcoindevkit](https://bitcoindevkit.org/) projects and resou
 
 <br/>
 
+## Server Side Applications
+- Tatooine Faucet([repo](https://github.com/thunderbiscuit/tatooine)) — A docker-deployable faucet using the bdk-kotlin language bindings
+
+<br/>
+
 ## Contribute
 If you know of an awesome project using the bitcoindevkit and that project is not listed here, let us know by opening an issue or a PR directly!
