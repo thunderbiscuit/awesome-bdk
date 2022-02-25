@@ -13,7 +13,8 @@ A curated list of [bitcoindevkit](https://bitcoindevkit.org/) projects and resou
 <br/>
 
 ## Docs and Sample Applications
-- [Official Documentation Website](https://bitcoindevkit.org/getting-started/) — docs, tutorials, and blog
+- [Official Website](https://bitcoindevkit.org/getting-started/) — docs, tutorials, and blog
+- [Library Docs](https://docs.rs/bdk/0.16.1/bdk/) — source code auto-generated documentation  
 - [Devkit Wallet](https://github.com/thunderbiscuit/bitcoindevkit-android-sample-app) — A demo application for bdk-kotlin on Android  
 - [BDWallet](https://github.com/bitcoindevkit/BDWallet) — A demo application on Android using bdk-jni
 
@@ -30,7 +31,7 @@ A curated list of [bitcoindevkit](https://bitcoindevkit.org/) projects and resou
 <br/>
 
 ## Server Side Applications
-- Tatooine Faucet([repo](https://github.com/thunderbiscuit/tatooine)) — A docker-deployable faucet using the bdk-kotlin language bindings
+- Tatooine Faucet ([repo](https://github.com/thunderbiscuit/tatooine)) — A docker-deployable faucet using the bdk-kotlin language bindings
 
 <br/>
 
